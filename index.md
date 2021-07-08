@@ -1,4 +1,4 @@
-### ESP32 Dev kit
+### open-smartwatch
 
 Bienvenido al Internet de las Cosas.
 
