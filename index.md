@@ -1,4 +1,4 @@
-### open-smartwatch
+### Open-Smartwatch
 
 Bienvenido al Internet de las Cosas.
 
