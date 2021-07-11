@@ -14,6 +14,7 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
+* Actualizar firmware.
 [Instrucciones para clonar, compilar y subir el firmware  (OS) del Open-Smartwatch](https://open-smartwatch.github.io/4_flashing/)
 
 * Canal de Discord oficial.
