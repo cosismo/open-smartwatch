@@ -23,6 +23,10 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 * Driver USB
 [Driver USB para el Open-Smartwatch](http://www.wch-ic.com/downloads/CH341SER_ZIP.html)
 
+* Información general sobre el ESP32
+[ESP32](https://cosismo.github.io/esp32-devkit/)
+
+
 ¡Suerte!
 
   Equipo Cosismo
