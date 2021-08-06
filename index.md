@@ -14,6 +14,9 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
+* Ejemplo básico de reproductor de Gifs (requiere que subas el gif al ESP32 con el plugin [Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin/)
+[Ejemplo Arduino Open-Smartwatch Gif Player](https://github.com/cosismo/opensmarwatchGifPlayer)
+
 * Actualizar firmware.
 [Instrucciones para clonar, compilar y subir el firmware  (OS) del Open-Smartwatch](https://open-smartwatch.github.io/4_flashing/)
 
