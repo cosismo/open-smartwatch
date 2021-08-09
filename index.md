@@ -14,11 +14,11 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
-*ARDUINO
+**ARDUINO**
 Para programar con Arduino IDE sólo selecciona la placa ESP32 PICO-D4. Para utilizar la pantalla requerirás de la librería Arduino_GFX_Library*
 * Ejemplo de reproductor de GIFs [Ejemplo Arduino Open-Smartwatch GIF Player](https://github.com/cosismo/opensmarwatchGifPlayer) (requiere que subas el GIF al ESP32 con el plugin [Arduino ESP32 filesystem uploader](https://github.com/me-no-dev/arduino-esp32fs-plugin/), instales las librerías correspondientes y después subas el sketch.
 
-*PLATFORMIO + VSCode (Sistema operativo oficial del reloj)
+**PLATFORMIO + VSCode (Sistema operativo oficial del reloj)**
 * Actualizar firmware.
 [Instrucciones para clonar, compilar y subir el firmware  (OS) del Open-Smartwatch](https://open-smartwatch.github.io/4_flashing/)
 
