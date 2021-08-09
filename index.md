@@ -22,7 +22,7 @@ Para programar con Arduino IDE sólo selecciona la placa ESP32 PICO-D4. Para uti
 * Actualizar firmware.
 [Instrucciones para clonar, compilar y subir el firmware  (OS) del Open-Smartwatch](https://open-smartwatch.github.io/4_flashing/)
 
-
+OTRA INFORMACIÓN ÚTIL
 
 * Canal de Discord oficial.
 [Ayuda de la comunidad por el canal de Discord oficial](https://discord.gg/9DK5JY6)
