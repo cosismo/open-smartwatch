@@ -30,8 +30,8 @@ OTRA INFORMACIÓN ÚTIL
 * Driver USB
 [Driver USB para el Open-Smartwatch](http://www.wch-ic.com/downloads/CH341SER_ZIP.html)
 
-* Información general sobre el ESP32
-[ESP32](https://cosismo.github.io/esp32-devkit/)
+* Información general sobre el ESP32 _(info sobre el ESP32 dev kit, pero aplica en un 95% para esta placa)._
+[Información sobre el ESP32 dev kit](https://cosismo.github.io/esp32-devkit/)
 
 
 ¡Suerte!
