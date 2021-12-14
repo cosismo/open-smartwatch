@@ -6,7 +6,7 @@ Protip: para cargar el sketch / bin a tu ESP32, presiona y deja presionado el bo
 Si no lo haces probablemente no puedas cargar el sketch y se te presentarán errores como los que se describen en este post:  
 [https://github.com/espressif/arduino-esp32/issues/1253](https://github.com/espressif/arduino-esp32/issues/1253)  
  
-![Open-Smartwatch Pinout](https://raw.githubusercontent.com/cosismo/open-smartwatch/master/Open-SmartwatchPinout.jpg)
+![Open-Smartwatch Pinout](https://raw.githubusercontent.com/cosismo/open-smartwatch/master/1.jpg)
 
 
 Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información técnica, te recomendamos las siguientes ligas:
@@ -14,8 +14,8 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
-**Repositorio oficial del fabricante:**
-Para 
+**Repositorio oficial del fabricante:**  
+[Repositorio LilyGOT-Watch-2021](https://github.com/Xinyuan-LilyGO/T-Watch-2021)
 
 OTRA INFORMACIÓN ÚTIL
 
