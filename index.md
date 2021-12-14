@@ -17,7 +17,7 @@ Para comenzar a utilizar tu Open-Smartwatch y encontrar toda la información té
 **Conceptos básicos**  
 * El modelo 2021 del opensmartwatch no incluye convertidor USB a TTL. Por lo que necesitarás usar uno (se incluye en el kit, es el modelo T-U2T)
 * Puedes usar el reloj como cualquier Arduino y programarlo a través de la librería incluída en el repositorio oficial. Hay un par de ejemplos en la carpeta software/Arduino.
-* También puedes programar con Platformio y python, en el repositorio del fabricante se encuentra el código del firmware completo en la carpeta de softwarecon el nombre de SmartWatch.zip.
+* También puedes programar con Platformio. En el repositorio del fabricante se encuentra el código del firmware completo en la carpeta de softwarecon el nombre de SmartWatch.zip. Las credenciales WiFi se configuran en un archivo de configuración. Puedes leer esta liga para ubicarlo: https://github.com/Xinyuan-LilyGO/T-Watch-2021/issues/2
 
 **Repositorio oficial del fabricante:**  
 [Repositorio LilyGOT-Watch-2021](https://github.com/Xinyuan-LilyGO/T-Watch-2021)
